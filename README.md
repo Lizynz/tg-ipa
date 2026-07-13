@@ -10,7 +10,7 @@ git clone https://github.com/Lizynz/tg-ipa.git
 ```
 
 ```bash
-cd tg-uploader
+cd tg-ipa
 ```
 
 ```bash
@@ -39,7 +39,7 @@ After logging in, the session string will be printed to the console. Paste it ba
 Place your files in the project root:
 
 ```text
-tg-uploader/
+tg-ipa/
 ├── App.ipa
 ├── icon.jpg
 └── index.js
