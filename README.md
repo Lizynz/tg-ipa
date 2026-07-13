@@ -1,11 +1,19 @@
 # tg-ipa
 Send .ipa files to Telegram with a custom icon preview
+
+![Preview](/Image.png)
+
 ### Installation
 
 ```bash
 git clone https://github.com/Lizynz/tg-ipa.git
-cd tg-uploader
+```
 
+```bash
+cd tg-uploader
+```
+
+```bash
 npm install
 ```
 
